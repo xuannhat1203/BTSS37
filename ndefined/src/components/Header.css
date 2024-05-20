@@ -1,0 +1,17 @@
+.header{
+    width: 1500px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: rgb(251,146,60);
+}
+.stogareItem{
+    position: fixed;
+    left: 1400px;
+    z-index: 9999;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
